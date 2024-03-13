@@ -53,13 +53,24 @@ Each subset contains 5,000 real-world human-written samples (labelled as 1) and 
 Please cite our paper if you use our dataset or code in your work:
 
 ```bibtex
-@misc{pu2023zeroshot,
-      title={On the Zero-Shot Generalization of Machine-Generated Text Detectors}, 
-      author={Xiao Pu and Jingyu Zhang and Xiaochuang Han and Yulia Tsvetkov and Tianxing He},
-      year={2023},
-      eprint={2310.05165},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{pu-etal-2023-zero,
+    title = "On the Zero-Shot Generalization of Machine-Generated Text Detectors",
+    author = "Pu, Xiao  and
+      Zhang, Jingyu  and
+      Han, Xiaochuang  and
+      Tsvetkov, Yulia  and
+      He, Tianxing",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.318",
+    doi = "10.18653/v1/2023.findings-emnlp.318",
+    pages = "4799--4808"
 }
 ```
 
